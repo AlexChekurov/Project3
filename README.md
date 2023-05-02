@@ -46,6 +46,9 @@ https://user-images.githubusercontent.com/101993583/235696121-d0f84b92-5910-4396
 
 https://user-images.githubusercontent.com/101993583/235695336-ae19934d-5740-4fd2-9a20-c79f49fa973f.mov
 
+Построим график температур, получив 1000 температур с сервера. Для построения графика используется библиотека xchart:
+
+<img width="1440" alt="Снимок экрана 2023-05-02 в 17 27 54" src="https://user-images.githubusercontent.com/101993583/235696853-58917de8-48a7-4baa-8eb6-1ebbfaa4d417.png">
 
 
 
