@@ -10,3 +10,13 @@
 ![Project3_TZ-08](https://user-images.githubusercontent.com/101993583/235676258-db027a3e-c084-4593-bfac-a7457ccdfdc5.png)
 ![Project3_TZ-09](https://user-images.githubusercontent.com/101993583/235676273-a0e6a213-92db-484f-9f3d-8c645248bd27.png)
 ![Project3_TZ-10](https://user-images.githubusercontent.com/101993583/235676377-0517aa58-28ce-4e7e-b9ef-7044bf4a6074.png)
+
+Задание было выполнено полностью в соотвествии с поставленными требованиями. Приложение собирается в jar-файл, запускается из метода main.
+
+Использованные технологии: Java 17 SE, Apache Maven, Apache Tomcat, PostgreSQL, Hibernate, Spring Core, Spring MVC, Spring Data, Spring Boot, Spring Web.
+
+SQL код для создания таблиц находится в файле sql/project3_db.sql
+
+Пример работы:
+
+
