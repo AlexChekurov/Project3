@@ -34,6 +34,11 @@ https://user-images.githubusercontent.com/101993583/235686693-636caa06-6030-40f4
 
 https://user-images.githubusercontent.com/101993583/235688375-29029441-af28-4a6d-a504-18ac39913a0d.mov
 
+Возвращаем количество дождливых дней из БД:
+
+https://user-images.githubusercontent.com/101993583/235690112-230aa5c1-9e92-43a1-a463-af91dbb20849.mov
+
+
 
 
 
