@@ -10,6 +10,9 @@
 ![Project3_TZ-08](https://user-images.githubusercontent.com/101993583/235676258-db027a3e-c084-4593-bfac-a7457ccdfdc5.png)
 ![Project3_TZ-09](https://user-images.githubusercontent.com/101993583/235676273-a0e6a213-92db-484f-9f3d-8c645248bd27.png)
 ![Project3_TZ-10](https://user-images.githubusercontent.com/101993583/235676377-0517aa58-28ce-4e7e-b9ef-7044bf4a6074.png)
+![Project3_TZ-11](https://user-images.githubusercontent.com/101993583/235682466-f78efd55-f0f0-4f79-ad53-87fbe3de898d.png)
+![Project3_TZ-12](https://user-images.githubusercontent.com/101993583/235682476-e0ff02eb-3fbd-41ab-93a5-a730292d06d0.png)
+![Project3_TZ-13](https://user-images.githubusercontent.com/101993583/235682477-3721fcfe-bd32-4535-8f6e-55f93e6233b4.png)
 
 Задание было выполнено полностью в соотвествии с поставленными требованиями. Приложение собирается в jar-файл, запускается из метода main.
 
