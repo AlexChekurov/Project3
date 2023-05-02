@@ -38,6 +38,15 @@ https://user-images.githubusercontent.com/101993583/235688375-29029441-af28-4a6d
 
 https://user-images.githubusercontent.com/101993583/235690112-230aa5c1-9e92-43a1-a463-af91dbb20849.mov
 
+Отправим 1000 запросов со случайными температурами и "дождями":
+
+
+
+Получим эти 1000 измерений с сервера:
+
+https://user-images.githubusercontent.com/101993583/235695336-ae19934d-5740-4fd2-9a20-c79f49fa973f.mov
+
+
 
 
 
